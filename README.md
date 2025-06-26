@@ -6,7 +6,7 @@
 
 This repository contains the backend implementation of a project built using **NestJS**. The backend features a Role-Based Access Control (RBAC) system to manage access and permissions dynamically. The backend is deployed on the **DigitalOcean App Platform** for reliable and scalable hosting.
 
-Project Link --> [https://rbac-nextjs-ry8w2.ondigitalocean.app](https://rbac-nextjs-ry8w2.ondigitalocean.app/)
+
 
 ---
 
@@ -55,5 +55,5 @@ You can log in to the application using the following test credentials:
 - **Hosting**: DigitalOcean App Platform
 - **Data Population**: Faker.js
 
-Frontend Repository Link ---> [https://github.com/NxtNinja/admin-ui-RBAC](https://github.com/NxtNinja/admin-ui-RBAC)
+
 
